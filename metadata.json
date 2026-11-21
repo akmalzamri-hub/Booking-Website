@@ -1,0 +1,6 @@
+{
+  "name": "Resource Booking System",
+  "description": "Sistem Tempahan Ruang & Peralatan Kampus untuk mengurus tempahan bilik perbincangan, makmal komputer, serta peralatan studio dan sukan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
